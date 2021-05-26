@@ -1,9 +1,11 @@
 # Detecção e Reconhecimento de Faces
 
-- Este projeto foi desenvolvido como parte integrante da avaliação 
-da disciplina INE - Visão Computacional - PPGCC UFSC
+- Este projeto foi desenvolvido como parte integrante da avaliação da disciplina 
+INE410121-41000025DO/ME (20202) - Visão Computacional - PPGCC UFSC
 
-# -----------------------------------------------------------------
+Versão: 1.3.3
+
+-----------------------------------------------------------------
 
 ## Primeira Etapa - Detecção de pessoas
 
@@ -17,7 +19,7 @@ da disciplina INE - Visão Computacional - PPGCC UFSC
     --input images/1.jpg \
     --opts MODEL.WEIGHTS detectron2://COCO-Keypoints/keypoint_rcnn_R_50_FPN_1x/137261548/model_final_04e291.pkl
 
-# -----------------------------------------------------------------
+-----------------------------------------------------------------
 
 ## Segunda Etapa - Reconhecimento Facial
 
